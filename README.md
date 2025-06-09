@@ -21,42 +21,4 @@ git clone https://github.com/yourusername/checkers-ai.git
 cd checkers-ai
 python checkers.py
 
-How It Works
-The AI uses:
 
-Minimax algorithm with depth-limited search
-
-Alpha-Beta pruning for optimization
-
-Evaluation function considering:
-
-Piece advantage (regular vs kings)
-
-Board position control
-
-Potential forced captures
-
-King safety
-
-Gameplay Example
-
-5,0 to 4,1  # Player move
-AI responds: 2,1 to 3,0
-
-Future Enhancements
-GUI implementation
-
-Improved heuristics
-
-Move history tracking
-
-Multiplayer mode
-
-Contributing
-Fork the repository
-
-Create a feature branch
-
-Commit your changes
-Push to the branch
-Open a pull request
