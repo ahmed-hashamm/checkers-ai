@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![AI](https://img.shields.io/badge/AI-Minimax-orange)](https://en.wikipedia.org/wiki/Minimax)
 [![Game](https://img.shields.io/badge/Game-Checkers-red)](https://en.wikipedia.org/wiki/Draughts)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 
 A console-based Checkers implementation featuring an AI opponent using Minimax with Alpha-Beta pruning.
 
